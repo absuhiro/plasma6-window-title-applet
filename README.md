@@ -1,4 +1,4 @@
-# Window Title Applet
+# Window Title Applet 2
 A Plasma 6 port of the [Window Title Applet](https://github.com/psifidotos/applet-window-title/) for Latte Dock by the legendary [Psifidotos](https://github.com/psifidotos).
 > ### Requires Plasma 6
 ## Mouse Gestures
